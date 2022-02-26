@@ -16,7 +16,7 @@
 ## Social Media
 
 <p align="center"> <a href="https://wa.me/6287850631109"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white " /></p></a> 
-<P align="center"> <a href="https://www.facebook.com/SuamiTokisakiKurumi"><img src="https://img.shields.io/badge/Facebook-00B2FF?style=for-the-badge&logo=facebook&logoColor=white " /></p></a>
+<P align="center"> <a href="https://www.facebook.com/fajarxnakanonino"><img src="https://img.shields.io/badge/Facebook-00B2FF?style=for-the-badge&logo=facebook&logoColor=white " /></p></a>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
